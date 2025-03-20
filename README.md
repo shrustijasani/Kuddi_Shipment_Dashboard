@@ -47,3 +47,5 @@ The Kuddi Store wants to create an annual shipment report. So that, the owner of
 5. To track individual performance and efficiency:
    - Displays shipments handled by each salesperson with active and completed shipments.
 
+## Power BI Dashboard
+- <a href="https://github.com/shrustijasani/Kuddi_Shipment_Dashboard/blob/main/Shipment.xlsx">Shipment</a>
