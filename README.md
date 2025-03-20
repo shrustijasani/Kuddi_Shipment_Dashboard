@@ -63,5 +63,18 @@ The Kuddi Store wants to create an annual shipment report. So that, the owner of
 ![Screenshot 2025-03-20 150844](https://github.com/user-attachments/assets/02a6d245-0c6a-414e-afd6-1e6c88fbfbe3)
 ![Screenshot 2025-03-20 150854](https://github.com/user-attachments/assets/6f9489fc-b3aa-4c92-a219-4f24d50de8d0)
 
-## 
+## Project Insights 
 
+Project insights summarize key trends in shipments, revenue, and performance:
+
+- Shipments: 5K total; 3K completed (62%), 2K active (33%), 248 returned (5%).
+- Revenue: $2M, with monthly fluctuations.
+- Delivery: Avg. time = 10 days; city-wise performance analyzed.
+- Product Performance: Necklace sets (34%), Bands (18%), Studs (50%).
+- Sales Performance: Shipment distribution and efficiency tracked for each salesperson.
+  
+These insights help optimize operations and improve supplier efficiency. 
+
+## Final Conclusion
+
+The supplier is performing well with $2M revenue and 62% completed shipments, but 33% active shipments and 5% returns indicate room for improvement. Delivery time (10 days) could be optimized for better efficiency. 
