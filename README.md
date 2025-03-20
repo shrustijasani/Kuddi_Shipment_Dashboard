@@ -52,3 +52,16 @@ The Kuddi Store wants to create an annual shipment report. So that, the owner of
 
 ## Process
 
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created tables and Measures according to the questions asked.
+- Merged all tables and Measures into one dashboard and applied slicer and interactive fliters for dynamic dashboard.
+
+## Dashboard
+
+![Screenshot 2025-03-20 150827](https://github.com/user-attachments/assets/239eb5b4-1802-4cb1-8f59-00b6eb3fcff9)
+![Screenshot 2025-03-20 150844](https://github.com/user-attachments/assets/02a6d245-0c6a-414e-afd6-1e6c88fbfbe3)
+![Screenshot 2025-03-20 150854](https://github.com/user-attachments/assets/6f9489fc-b3aa-4c92-a219-4f24d50de8d0)
+
+## 
+
