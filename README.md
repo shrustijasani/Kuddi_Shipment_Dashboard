@@ -1,6 +1,5 @@
 # Kuddi_Shipment_Dashboard(Interactive Dashboard creation using Power BI)
-As Project Objective
-The Kuddi Store wants to create an annual shipment report. So that, the owner of the Kuddi Store can understand their Shipments records for customer.
+Developed a Power BI supplier dashboard to monitor key logistics and supply chain metrics, including revenue, shipments, active/completed shipments, and average delivery time. The dashboard provides insights into shipment trends, city-wise delivery performance, and sales personnel efficiency.
 
 ## Dataset Used
 - <a href="https://github.com/shrustijasani/Kuddi_Shipment_Dashboard/blob/main/Country.xlsx">Country</a>
